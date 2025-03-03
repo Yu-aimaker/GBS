@@ -89,7 +89,7 @@ BaiBYは、人間の感性とAIの分析力を組み合わせた次世代のブ�
 ## 🌐 アクセス
 
 サイトは以下のURLでアクセスできます：
-[Good Buybes -Selection-](https://yu-aimaker.github.io/good-buybes-selection/)
+[Good Buybes -Selection-](https://yu-aimaker.github.io/GBS/)
 
 ## 📬 お問い合わせ
 
