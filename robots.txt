@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Allow: /about.html
+Allow: /profile.html
+Allow: /categories.html
+Allow: /articles/
+Allow: /assets/
+
+Sitemap: https://yu-aimaker.github.io/good-buybes-selection/sitemap.xml
+
+# クローラーの負荷を制御
+Crawl-delay: 5
+
+# 画像のインデックス許可
+User-agent: Googlebot-Image
+Allow: /assets/img src/
+Allow: /assets/social/
+
+# モバイルクローラー向け設定
+User-agent: Googlebot-Mobile
+Allow: /
