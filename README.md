@@ -1,7 +1,9 @@
 # 🌟 Good Buybes -Selection-
 
 <div align="center">
-  <img src="assets/img src/タイトルヘッダー.png" alt="Good Buybes -Selection- ロゴ" width="720" />
+  <a href="https://yu-aimaker.github.io/GBS/">
+    <img src="assets/img src/タイトルヘッダー.png" alt="Good Buybes -Selection- ロゴ" width="720" />
+  </a>
 </div>
 
 ## 📝 概要
