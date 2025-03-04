@@ -6,7 +6,7 @@ Allow: /categories.html
 Allow: /articles/
 Allow: /assets/
 
-Sitemap: https://yu-aimaker.github.io/good-buybes-selection/sitemap.xml
+Sitemap: https://yu-aimaker.github.io/GBS/sitemap.xml
 
 # クローラーの負荷を制御
 Crawl-delay: 5
