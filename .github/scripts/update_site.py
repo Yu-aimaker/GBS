@@ -12,7 +12,7 @@ ARTICLES_DIR = 'articles'
 CATEGORIES_DIR = 'categories'
 SITEMAP_PATH = 'sitemap.xml'
 INDEX_PATH = 'index.html'
-BASE_URL = 'https://yu-aimaker.github.io/good-buybes-selection'
+BASE_URL = 'https://yu-aimaker.github.io/GBS'
 
 # カテゴリとHTMLファイルのマッピング
 CATEGORY_MAPPING = {
